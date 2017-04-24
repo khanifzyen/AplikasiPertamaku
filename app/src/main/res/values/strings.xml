@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplikasi Pertamaku</string>
+    <string name="judul">Belajar Android Mudah dan Menyenangkan</string>
+    <string name="subjudul">Teknik Informatika Unisnu Jepara 2017</string>
+    <string name="text_large">Ini Teks Large</string>
+    <string name="text_medium">Ini Teks Medium</string>
+    <string name="text_small">Ini Teks Small</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="toggle_on">On</string>
+    <string name="text_hobi">Hobi : </string>
+    <string name="chk_hobi1">Makan</string>
+    <string name="chk_hobi2">Tidur</string>
+    <string name="chk_hobi3">Nonton TV</string>
+    <string name="text_jk">Jenis Kelamin</string>
+    <string name="radio_laki">Laki-Laki</string>
+    <string name="radio_perempuan">Perempuan</string>
+</resources>
